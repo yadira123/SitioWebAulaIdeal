@@ -1,2 +1,2 @@
 # SitioWebAulaIdeal
-[Ir](https://yadiratello.github.io/SitioWebAulaIdeal/)
+[Go](https://yadiratello.github.io/SitioWebAulaIdeal/)
